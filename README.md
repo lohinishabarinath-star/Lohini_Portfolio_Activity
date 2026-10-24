@@ -62,7 +62,8 @@ html
         <h3>Artificial Intelligence and Machine Learning Student</h3>
         <hr>
 
-        <img src="c:\Users\acer\OneDrive\Lohini.jpeg" alt="Lohini's Profile Photo" width="150" height="140">
+        <img src="c:\Users\acer\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\8892184FDBED61D484864A5941C6C841F3C66613\transfers\2026-42\WhatsApp Image 2026-10-17 at 1.26.47 PM.jpeg"
+             alt="Lohini's Profile Photo" width="150" height="150">
 
         <h2>About Me</h2>
         <p>
@@ -110,6 +111,8 @@ html
 
 </body>
 </html>
+
+
 
 
 ## OUTPUT
