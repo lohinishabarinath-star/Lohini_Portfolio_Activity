@@ -116,8 +116,7 @@ html
 
 
 ## OUTPUT
-
-![alt text](<Screenshot 2026-10-24 142759.png>)
+![Portfolio Screenshot](Screenshot%202026-10-24%20142759.png)
 
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
